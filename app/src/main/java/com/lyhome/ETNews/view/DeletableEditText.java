@@ -19,7 +19,7 @@ import android.widget.EditText;
  * @date 2014-3-13
  * TODO
  */
-public class DeletableEditText extends EditText {
+public class DeletableEditText extends android.support.v7.widget.AppCompatEditText {
 
     private Drawable mRightDrawable;
     private boolean isHasFocus;

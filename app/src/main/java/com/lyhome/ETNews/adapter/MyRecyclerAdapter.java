@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nostra13.universalimageloader.core.ImageLoader;
 import com.lyhome.ETNews.MyApplication;
 import com.lyhome.ETNews.R;
+import com.nostra13.universalimageloader.core.ImageLoader;
 import com.lyhome.ETNews.bean.NewsItem;
 
 import java.util.List;
